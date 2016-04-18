@@ -11,6 +11,7 @@ Paragraph starts here
 
 ```
 print "This is code"
+backtick is next to the 1 under Esc on keyboard
 
 if this then that
 ```
