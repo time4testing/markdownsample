@@ -1,10 +1,5 @@
 # Header1
 
-'''
-Print  "this is code"
-
-if this then that
-'''
 
 ## Header2
 
@@ -13,3 +8,8 @@ if this then that
 *Bullet2
 
 Paragraph starts here
+
+'''
+print "This is code"
+if this then that
+'''
