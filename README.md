@@ -9,8 +9,8 @@
 
 Paragraph starts here
 
-'''
+```
 print "This is code"
 
 if this then that
-'''
+```
